@@ -1,0 +1,10 @@
+Flask
+opencv-python-headless
+numpy==1.26.4
+scikit-image
+matplotlib
+Werkzeug
+flask-socketio
+eventlet
+flask-cors
+
